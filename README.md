@@ -12,11 +12,11 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
 
-### Days
+## Days
 
 - [Day 1: Chronal Calibration](day01-chronal-calibration/)
 
-### Progress
+## Progress
 
 | Day  | Part One | Part Two | 
 |---|:---:|:---:|
