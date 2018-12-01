@@ -15,3 +15,9 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 ### Days
 
 - [Day 1: Chronal Calibration](day01-chronal-calibration/)
+
+### Progress
+
+| Day  | Part One | Part Two | 
+|---|:---:|:---:|
+|✔️ [Day 1: Chronal Calibration](https://github.com/barclayd/advent-of-code-18)  | ⭐️ | ⭐️ |
