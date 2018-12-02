@@ -37,5 +37,5 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 | Day  | Part One | Part Two | 
 |---|:---:|:---:|
-|✔️ [Day 1: Chronal Calibration](https://github.com/barclayd/advent-of-code-18/day01-chronal-calibration/)  | ⭐️ | ⭐️ |
-|✔️ [Day 2: Inventory Managament System](https://github.com/barclayd/advent-of-code-18/day02-inventory-management-system/)  | ⭐️ | ⭐️ |
+|✔️ [Day 1: Chronal Calibration](day01-chronal-calibration/)  | ⭐️ | ⭐️ |
+|✔️ [Day 2: Inventory Managament System](day02-inventory-management-system/)  | ⭐️ | ⭐️ |
