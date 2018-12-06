@@ -41,3 +41,4 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 |✔️ [Day 2: Inventory Managament System](day02-inventory-management-system/)  | ⭐️ | ⭐️ |
 |Day 3: No Matter How You Slice It| 🕗 In progress | 🕗 In progress  |
 |Day 4: Repose Record| 🕗 In progress | 🕗 In progress  |
+| Day 5: Alchemical Reduction | 🕗 In progress | 🕗 In progress  |
