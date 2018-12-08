@@ -20,6 +20,7 @@ Step D must be finished before step E can begin.
 Step F must be finished before step E can begin.
 ```
 
+
 Visually, these requirements look like this:
 
 ```
